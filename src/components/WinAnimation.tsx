@@ -104,5 +104,5 @@ const getWinAnimationStyles: (
       ? "top-[120px] sm:top-[150px] lg:top-[180px]"
       : "top-[460px]",
   animation:
-    "absolute z-7 transition-top duration-500 ease-in-out pointer-events-none",
+    "absolute z-7 left-0 right-0 transition-top duration-500 ease-in-out pointer-events-none",
 });
